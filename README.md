@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Antonis
 
-<!--
-**antonisp92/antonisp92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Full Stack Developer | C# | .NET | JavaScript | SQL  
 
-Here are some ideas to get you started:
+### About Me
+- I work on web applications across both frontend and backend.  
+- Experience with UI design, responsive web development, and backend functionality.  
+- Focus on writing clean, maintainable code with unit tests for reliability.  
+- Always learning and improving through practical projects.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- Languages: C#, JavaScript, SQL, HTML/CSS  
+- Frameworks: .NET  
+- Tools: Visual Studio, GitHub  
+- Practices: Unit Testing, Responsive UI  
+
+### Featured Projects
+- [Project 1](link-to-repo) – Short description (e.g., Web app with C# & SQL).  
+- [Project 2](link-to-repo) – Short description (e.g., Responsive site with .NET & JS).  
+
+### Connect
+- LinkedIn: https://www.linkedin.com/in/antonis-petrou-b48629302 
+- Email: antpetrou10@gmail.com
